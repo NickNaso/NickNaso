@@ -1,3 +1,6 @@
+# Nicola Del Gobbo
+[![Twitter Badge](https://img.shields.io/badge/-@NickNaso-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NickNaso)](https://twitter.com/NickNaso) [![Linkedin Badge](https://img.shields.io/badge/-ndelgobbo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndelgobbo/)](https://www.linkedin.com/in/ndelgobbo/) [![Medium Badge](https://img.shields.io/badge/-@nicknaso-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nicknaso/)](https://medium.com/@nicknaso/)
+[![Gmail Badge](https://img.shields.io/badge/-nicoladelgobbo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicoladelgobbo@gmail.com)](mailto:nicoladelgobbo@gmail.com)
 ### Hi there 👋
 
 <!--
